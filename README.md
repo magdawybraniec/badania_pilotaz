@@ -16,11 +16,11 @@
 | Apolipoproteina B (apoB) | 115 zł | NIE |
 | Lipoproteina(a) - Lp(a) | 74 zł | ✓ TAK |
 
-**Lipidogram** - podstawowy pojedynczy panel oceny ryzyka sercowo-naczyniowego. Stosunek TG do HDL jest prostym wskaźnikiem insulinooporności - cel poniżej 1,5. Trening i dieta mogą poprawić wszystkie parametry.
+**Lipidogram** - podstawowy panel oceny ryzyka sercowo-naczyniowego, pierwszy krok w profilaktyce zawałów, udarów i miażdżycy. Cholesterol całkowity to suma, która sama w sobie mówi mało - istotne są wartości jego podtypów. LDL przyczynowo wiąże się z tworzeniem blaszek miażdżycowych (im go mniej i przez dłuższy czas, tym lepiej). HDL "sprząta" cholesterol z naczyń, ale bardzo wysokie HDL nie daje już dodatkowej ochrony - to nie jest marker, który chcemy podbijać w nieskończoność. Trójglicerydy reagują najszybciej na styl życia - rosną w kilka dni przy nadmiarze cukrów i alkoholu, spadają równie szybko przy korekcie. Stosunek TG/HDL to darmowy wskaźnik insulinooporności - cel <1,5, powyżej 3,0 to czerwona flaga nawet przy "normalnej" glukozie. Lipidogram mocno reaguje na interwencje: trening, redukcja cukrów i alkoholu oraz utrata tłuszczu trzewnego potrafią zmienić obraz w 3-6 miesięcy.
 
-**apoB** - kluczowy marker ryzyka sercowo-naczyniowego. Mierzy liczbę wszystkich miażdżycorodnych cząsteczek lipoprotein (LDL, VLDL, Lp(a)) - dokładniejszy niż samo LDL, szczególnie gdy LDL i ryzyko rzeczywiste się rozchodzą. Cel: <70 mg/dL przy podwyższonym ryzyku.
+**apoB** - najdokładniejszy pojedynczy marker ryzyka sercowo-naczyniowego, w nowszych wytycznych stopniowo wypiera klasyczne LDL. LDL mierzy ilość cholesterolu w cząsteczkach, apoB mierzy liczbę samych cząsteczek - a to cząsteczka, nie cholesterol w jej wnętrzu, wbija się w ścianę naczynia i inicjuje blaszkę. U osób z insulinoopornością czy wysokimi trójglicerydami LDL potrafi wyglądać przyzwoicie, a apoB ujawnia dużo więcej małych, gęstych, szczególnie miażdżycorodnych cząstek - to zmienia ocenę ryzyka u 20-30% osób. Jeśli mielibyśmy wybrać jeden marker lipidowy, byłoby to apoB. Cele: <90 mg/dL ogólnie, <65 przy wysokim ryzyku.
 
-**Lp(a)** - Istotnie podwyższona (powyżej 50 mg/dL) silnie zwiększa ryzyko zawału i udaru, nawet przy dobrym LDL! Pomiar jednorazowy wystarcza u większości osób, bo jest zdeterminiwany genetycznie, choć kobiety mogą wymagać ponownego pomiaru po menopauzie.
+**Lp(a)** - genetyczny, niedoceniony marker kardiologiczny. To cząsteczka LDL z doczepionym białkiem apo(a), które czyni ją jednocześnie miażdżycorodną i prozakrzepową. Podwyższone Lp(a) zwiększa ryzyko zawału i udaru 2-3-krotnie NIEZALEŻNIE od LDL, treningu i diety. To wyjaśnia, dlaczego niektórzy wysportowani, szczupli ludzie dostają zawału w wieku 45 lat. Około 20% populacji ma podwyższony poziom (>50 mg/dL), w większości o tym nie wiedząc. Poziom jest w 80-90% genetyczny i praktycznie się nie zmienia - dieta, trening i statyny nie działają. Wystarczy zbadać raz w życiu (u kobiet warto powtórzyć po menopauzie). Podwyższone Lp(a) działa przez całe życie - osoby z wysokim Lp(a) mają "starsze" naczynia niż sugeruje ich wiek metrykalny. Po co badać, skoro "nie można nic zrobić"? Wczesna identyfikacja = dłuższy healthspan. Wcześniejsze wykrycie pozwala na dekady celowanej prewencji - agresywniej obniżamy pozostałe, modyfikowalne czynniki (apoB, ciśnienie, tłuszcz trzewny) i wcześniej włączamy statynę, co realnie potrafi przesunąć pierwszy incydent sercowo-naczyniowy o 10-20 lat. Dodatkowo z uwagi na element genetyczny - wysoki wynik to sygnał, żeby przebadać rodzeństwo i dzieci. Na horyzoncie pierwsze leki celowane (pelacarsen, olpasiran).
 
 ---
 
@@ -30,16 +30,16 @@
 |---|---|---|
 | Glukoza na czczo | 17 zł | ✓ TAK |
 | Insulina na czczo | 49 zł | NIE |
-| HbA1c | 69 zł | NIE |
-| Kwas moczowy | 17 zł | NIE |
+| HbA1c | 69 zł | ✓ TAK |
+| Kwas moczowy | 17 zł | ✓ TAK |
 
-**Glukoza na czczo** - podstawowy marker metaboliczny. Sama w sobie nie wystarczy - insulinooporność pojawia się lata przed wzrostem glukozy! W praktyce longevity łączymy z insuliną na czczo (HOMA-IR) i innymi wskaźnikami, zanim pojawi się prediabetes. 
+**Glukoza na czczo** - najstarszy i najtańszy marker metaboliczny, ale daleki od pełnego obrazu. Organizm długo utrzymuje glukozę w "normie" kosztem rosnącej insuliny - prawidłowy wynik nie wyklucza insulinooporności, pokazuje jedynie, że trzustka jeszcze nadąża. Oficjalne progi: >100 mg/dL to stan przedcukrzycowy, >126 to cukrzyca. W longevity interesuje nas wcześniejszy zakres - optymalnie 70-90 mg/dL. W praktyce longevity łączymy z insuliną na czczo (HOMA-IR) i innymi wskaźnikami, zanim pojawi się prediabetes. 
 
-**Insulina na czczo** - hiperinsulinemia wyprzedza cukrzycę o 10–20 lat. Optymalny cel w longevity: <8 µIU/mL (poniżej 75. percentyla zdrowej populacji). Z glukozy i insuliny wyliczamy HOMA-IR - optymalny cel <1,5. Wysoka insulina wiąże się ze stanem zapalnym, może promować odkładanie tłuszczu trzewnego i jest niezależnym czynnikiem ryzyka zaburzeń poznawczych.
+**Insulina na czczo** - Insulina na czczo - jedno z najważniejszych, a najrzadziej wykonywanych badań metabolicznych. Hiperinsulinemia wyprzedza cukrzycę o 10-20 lat - zanim organizm "puści" glukozę, przez dekadę utrzymuje ją w normie coraz wyższą insuliną. Objawy życiowe: tłuszcz brzuszny, trudna redukcja wagi, "brain fog" po posiłkach, stałe zmęczenie. Cel longevity: <8 µIU/mL. Z glukozy i insuliny wyliczamy HOMA-IR - cel <1,5, powyżej 2,5 to wyraźna insulinooporność niezależnie od glukozy. Dobra wiadomość: insulina reaguje na interwencje szybciej niż prawie każdy inny marker - trening siłowy, ograniczenie cukrów i sen potrafią ją wyraźnie obniżyć w 6-12 tygodni.
 
 **HbA1c** - Średni poziom glukozy z ostatnich 2–3 miesięcy. Stabilniejszy obraz niż jednorazowy pomiar. Optymalny cel w longevity: 5,0-5,4% (nie standardowe laboratoryjne <5,7%). Ryzyko chorób sercowo-naczyniowych rośnie liniowo powyżej 5,0%. 5,7-6,4% identyfikuje osoby z wysokim ryzykiem progresji do cukrzycy (5-letnie ryzyko 9-50%). Ale bardzo niskie wartości (<5,0%) mogą wiązać się z wyższą śmiertelnością ogólną z przyczyn nieglikemicznych - wtedy należy wykluczyć inne problemy zdrowotne.
 
-**Kwas moczowy** - marker zdrowia metabolicznego, koreluje z insulinoopornością, nadciśnieniem i ryzykiem sercowo-naczyniowym. Hiperinsulinemia prowadzi do hiperurykemii, ale wysoki kwas moczowy może również nasilać insulinooporność (związek dwukierunkowy).Cel: 5-6 mg/dL (kobiety 4-5 mg/dL).
+**Kwas moczowy** - mhistorycznie kojarzony z dną moczanową, dziś uznawany za niezależny marker zdrowia metabolicznego. Podnosi się przy insulinooporności, otyłości trzewnej, diecie bogatej we fruktozę (soki, słodycze, przetworzona żywność) i alkoholu - szczególnie piwie. Powstaje błędne koło metaboliczne: hiperinsulinemia utrudnia wydalanie kwasu moczowego przez nerki, a podwyższony kwas moczowy nasila insulinooporność przez stres oksydacyjny i zapalenie - stąd silna korelacja z nadciśnieniem i ryzykiem sercowo-naczyniowym. W praktyce: osoba z kwasem moczowym 7+ mg/dL i "normalną" glukozą często jest już na trajektorii do zespołu metabolicznego. Cel: <5 mg/dL u mężczyzn, <4 mg/dL u kobiet - ryzyko wyraźnie rośnie przy ≥7 u mężczyzn i ≥5 u kobiet.
 
 ---
 
@@ -51,7 +51,7 @@
 | OB (odczyn Biernackiego) | 16 zł | ✓ TAK |
 | Homocysteina | 109 zł | NIE |
 
-**hs-CRP** - Marker ogólnoustrojowego stanu zapalnego. Cel <1,0 mg/L, idealnie <0,5. Chroniczny stan zapalny przyspiesza miażdżycę, neurodegenerację i starzenie. Podwyższone CRP wiąże się z zaburzeniami snu (szczególnie trudności z utrzymaniem snu, nie sama krótka długość) i przewlekłym stresem (związek dwukierunkowy - stres podnosi CRP, a CRP może nasilać zaburzenia snu).
+**hs-CRP** - marker ogólnoustrojowego stanu zapalnego niskiego stopnia — tego, co w longevity nazywa się inflammaging. Przewlekły, subkliniczny stan zapalny to wspólny mianownik chorób starzenia: miażdżycy, cukrzycy, neurodegeneracji, depresji i wielu nowotworów. Cel <1,0 mg/L, optymalnie <0,5. Co podnosi hs-CRP w codziennym życiu: tłuszcz trzewny, zaburzenia snu, przewlekły stres, palenie, infekcje. Ważna uwaga: jednorazowo podwyższony wynik może oznaczać zwykłą infekcję sprzed kilkunastu dni — przy wysokim wyniku powtarzamy badanie za 2-4 tygodnie, żeby odróżnić sytuację ostrą od przewlekłej.
 
 **OB** - tani, niespecyficzny marker zapalny wychodzący z morfologii. Uzupełnienie hs-CRP - podwyższone OB + CRP to sygnał do głębszej diagnostyki.
 
