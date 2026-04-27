@@ -249,6 +249,7 @@ Skopiuj tę listę i zleć wszystkie badania prywatne w jednym miejscu (Diagnost
 | Progesteron | 46 zł |
 | FSH | 46 zł |
 | LH | 46 zł |
+| Prolaktyna | 44 zł |
 | DHEA-S | 70 zł |
 | TSH | 40 zł |
 | Wolne T3 | 40 zł |
@@ -259,6 +260,7 @@ Skopiuj tę listę i zleć wszystkie badania prywatne w jednym miejscu (Diagnost
 | Magnez surowicowy | 18 zł |
 | Elektrolity (Na, K, Ca) | 30 zł |
 | Pełna morfologia krwi | 26 zł |
+| OB | 16 zł |
 | ALT, AST | 75 zł |
 | Kreatynina + eGFR | 17 zł |
 | Albumina | 18 zł |
